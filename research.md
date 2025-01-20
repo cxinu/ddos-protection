@@ -94,7 +94,7 @@ Here is what the research entails, broken down into steps for clarity:
 
 ### **Required Tools and Resources**
 1. **Datasets**:
-   - [CICDDoS2019](https://www.unb.ca/cic/datasets/ddos-2019.html)
+   - [CICDDoS2019](https://www.unb.ca/cic/datasets/ddos-2019.html) | [Dataset Direct Download](http://205.174.165.80/CICDataset/CICDDoS2019/Dataset/)
    - [CAIDA DDoS Attack Traffic Dataset](https://www.caida.org/data/passive/ddos-2007_dataset.xml)
 
 2. **Machine Learning Libraries**:
